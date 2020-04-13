@@ -1,1 +1,2 @@
 demo gitflow is new repository on git hub and connected to smartgit
+working online
